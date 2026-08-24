@@ -5,6 +5,7 @@
   "main": "src/inventario.js",
   "type": "commonjs",
   "scripts": {
+    "start": "node src/cli.js",
     "test": "node --test"
   },
   "author": "Paul Hernandez",
