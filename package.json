@@ -1,0 +1,12 @@
+{
+  "name": "software-control-ingreso",
+  "version": "1.0.0",
+  "description": "Software simple para el control de ingreso de inventario de The Kids Place.",
+  "main": "src/inventario.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Paul Hernandez",
+  "license": "MIT"
+}
